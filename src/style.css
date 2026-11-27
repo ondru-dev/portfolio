@@ -1,5 +1,6 @@
 @import "tailwindcss";
 body {
-  @apply h-screen w-full bg-mauve-950 text-mauve-100 pl-5 pr-5 flex
-    justify-center items-center flex-row;
+  overflow: hidden;
+  @apply h-screen w-full bg-mauve-950 text-mauve-100 pl-5 pr-5
+    flex justify-center items-center flex-row;
 }
