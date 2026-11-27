@@ -1,5 +1,6 @@
 @import "tailwindcss";
 body {
+  height: 100dvh;
   @apply bg-mauve-950 text-mauve-100 pl-5 pr-5 flex
-    justify-center items-center flex-row h-screen w-full;
+    justify-center items-center flex-row w-full;
 }
